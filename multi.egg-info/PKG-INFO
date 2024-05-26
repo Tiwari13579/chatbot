@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: multi
+Version: 0.0.1
+Author: siddhanath
+Author-email: siddhanthtiwari7709@gmail.com
+Requires-Dist: streamlit
+Requires-Dist: google-generativeai
+Requires-Dist: python-dotenv
+Requires-Dist: langchain
+Requires-Dist: PyPDF2
+Requires-Dist: chromadb
+Requires-Dist: faiss-cpu
+Requires-Dist: pdf2image
